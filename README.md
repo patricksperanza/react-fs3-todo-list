@@ -6,7 +6,7 @@
 
 ### Video Demo
 
-[Counter App Demo](https://youtube.com/shorts/VDUpoIdjQ9o)
+[To Do List Demo](https://youtube.com/shorts/VDUpoIdjQ9o)
 
 ### Learn How to Build a To Do List with React!
 
